@@ -1,10 +1,11 @@
-# surveillanceCheck
+# SurveillanceCheck
 This is a python program I wrote in 2 HOURS for a creative assignment, showcasing concepts of surveillance, data breaching, and emotional responses to fictional media.
 
-## Note for playing on your computer
+## NOTE for playing on your computer
 This project works best on a Mac, buut I tried making it somewhat flexible. To play the game, simply download the .py file into the computer downloads folder, go to your Terminal, and run the program with "python3 surveillanceTest.py" or whatever your terminal prefers. If that does not work, I have provided a video of how the game is supposed to work in the repo!
 
 For my project I did not use any AI other than the occasional Google search, which unfortunately and inevitably provides the AI overview. As someone with little to no (visually) artistic ability, I figured this was a fitting solution to the challenge. I spent around 30ish minutes researching to start it off, then ROUGHLY 2 hrs typing it all up (not including this blurb). Preferably, you should play the game before reading the explanation below! Thank you!
+
 
 ![ScreenRecording2026-09-09at11.17.52AM-ezgif.com-video-to-gif-converter.gif](https://github.com/mayahawk14/surveillanceCheck/blob/7a72e3239b2c38a607921b3578833a60bacad2ff/ScreenRecording2026-09-09at11.17.52AM-ezgif.com-video-to-gif-converter.gif)
 
